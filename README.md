@@ -16,7 +16,7 @@ em Tkinter.
 Requisito: Python 3.10+. Tkinter já vem na instalação padrão do Python.
 
 ```bash
-git clone https://github.com/pablolopes-dev/calculadora-imc.git
+git clone https://github.com/pabloantoniopietrobonlopes2007-tech/calculadora-imc.git
 cd calculadora-imc/calculadora_IMC
 ```
 
